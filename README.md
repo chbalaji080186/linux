@@ -110,7 +110,7 @@ cat /dev/null > catalina.out - delete all the content
 
 
 
-#SED commands
+# SED commands
 
 https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
 1.Replacing or substituting string : Sed command is mostly used to replace the text in a file. The below simple sed command replaces the word “unix” with “linux” in the file.
