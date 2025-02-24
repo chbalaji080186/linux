@@ -150,3 +150,7 @@ df -TH
 blkid
 free -h
 swapon -s
+
+
+##  Clear the content of file without deleting the file
+        cat /dev/null > file.log
